@@ -39,8 +39,10 @@ flutter pub get
 
 # Run the app
 flutter run
+```
 
 ## Project Structure
+```plaintext
 lib/
 ├─ core/
 │  ├─ errors/
@@ -56,9 +58,9 @@ lib/
 │  └─ start/
 ├─ firebase_options.dart
 └─ main.dart
-
+```
 ## Developer ##
-# Mai Awad Sadat
+Mai Awad Sadat
 Mobile Application Developer using Flutter
 Email: maiawad450@gmail.com
 GitHub: https://github.com/mai450
