@@ -30,7 +30,6 @@ This app uses a public news API.
 
 ## ⚙️ Setup
 
-```bash
 # Clone the repo
 git clone https://github.com/mai450/News_App_Task.git
 
